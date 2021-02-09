@@ -1,4 +1,0 @@
-deploy:
-  type: git
-  repository: https://github.com/floatspace/floatspace.github.io.git
-  branch: master
